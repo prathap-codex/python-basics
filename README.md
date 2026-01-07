@@ -8,6 +8,5 @@ This repository contains beginner-level Python programs.
 - While loop
 - Nested loop
 - Lists
-- Patterns
 
 Learning Python step by step 🚀
