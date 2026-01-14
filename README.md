@@ -9,5 +9,7 @@ This repository contains beginner-level Python programs.
 - Nested loop
 - Lists
 - collections
+- functions
+- return
 
 Learning Python step by step 🚀
