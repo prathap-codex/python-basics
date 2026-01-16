@@ -11,5 +11,6 @@ This repository contains beginner-level Python programs.
 - collections
 - functions
 - return
+- classes & objects
 
 Learning Python step by step 🚀
