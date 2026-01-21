@@ -19,3 +19,14 @@ s2.regno = "2"
 
 s1.display()
 s2.display()
+
+
+# next example
+
+class fruit:
+    def __init__(self, col):
+        self.colour = col
+
+
+apple = fruit("red")
+print(apple.colour)
