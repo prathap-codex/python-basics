@@ -30,3 +30,26 @@ class fruit:
 
 apple = fruit("red")
 print(apple.colour)
+
+
+# next example
+
+class student:
+    def __init__(self, na, re):
+        self.name = na
+        self.regno = re
+
+    def student2(self, na, re):
+        self.name = na
+        self.regno = re
+
+
+s1 = student("gowri", "1")
+s2 = student("prathap", "2")
+
+
+print(s1.name)
+print(s1.regno)
+
+print(s2.name)
+print(s2.regno)
